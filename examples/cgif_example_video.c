@@ -3,7 +3,7 @@
 #include <string.h>
 
 #include "cgif.h"
-
+test
 #define WIDTH  100
 #define HEIGHT 100
 
